@@ -1,9 +1,13 @@
 import Nav from "./containers/Nav";
-
+import Footer from "./containers/Footer";
 
 function App() {
   return (
-    <Nav></Nav>
+    <div>
+      <Nav></Nav>
+      <Footer></Footer>
+    </div>
+    
   );
 }
 

@@ -1,0 +1,28 @@
+body,html{
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.greyColor{
+    color: grey;
+}
+.imageIcon{
+    width: 25px;
+    height: 25px;
+}
+
+.marginlr{
+    margin: 0 25px;
+}
+.icons{
+    margin: 0px 5px;
+}
+
+.containerC{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
