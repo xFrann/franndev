@@ -1,0 +1,17 @@
+.text-container {
+    margin: 0.5rem 0.5rem;
+    line-height: 1.7;
+    max-width: 60ch;
+}
+
+.text-container .title h1 {
+    margin: 0;
+    letter-spacing: -1px;
+}
+.text-container .content p {
+    margin: 0;
+    font-size: 1.2em;
+    letter-spacing: 1px;
+
+    
+}
