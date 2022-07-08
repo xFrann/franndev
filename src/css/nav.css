@@ -6,15 +6,17 @@ body, html {
 }
 .nav-flex {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     margin: 0;
     padding: 0;
-    justify-content: space-between;
+    justify-content: center;
+    align-items: center;
 }
 .nav-list {
     display: flex;
     flex-direction: row;
     list-style: none;
+    padding: 0;
 }
 
 .nav-item {
@@ -34,5 +36,18 @@ body, html {
 #nav-logo {
     width: 100px;
     height: 50px;
-    padding-left: 1rem;
+}
+
+@media screen and (min-width: 768px) {
+    .nav-flex {
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    .nav-item {
+        padding: 0 1rem;
+    }
+    #nav-logo {
+        padding: 0 1rem;
+    }
+
 }
