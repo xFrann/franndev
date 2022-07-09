@@ -10,8 +10,8 @@ export default function HomeSorin() {
                     <h3 className="class-h3">A full stack developer based in Romania</h3>
                     <p className="class-p">I'm a 21 years old, self-taught, software developer. With every line of code I write I get closer to my dream, to become a software enginner.<br/>
                     Currently I'm learning and working at the same time, doing freelance work, mainly Static Websites.</p>
-                <button className="button-style class-button">
-                    Ceva important
+                <button className="button-style class-button" >
+                    <a href="#" className="no-text-decoration ">Ceva important</a>
                 </button>
         </div>
     );
