@@ -19,46 +19,73 @@ body,html{
 .container{
     width: 85%;
     margin: auto;
-    padding: 40px 0px;
+    padding: 90px 0px;
 }
 #first-title{
     color: #000000;
 }
 
-    /* Mobile */
-@media only screen and (max-width: 500px) {
+.class-h4{
+    font-size:19px;
+}       
+
+
+         /* Mobile */
+@media only screen and (min-width:0px) and (max-width: 500px)  {
     
-    .class-h4{
-        font-size: 18px;
-        margin: 3px;
+    .class-h4,.class-h3,.class-p,.class-button{
+        margin: 5px 0px;
     }
+
+   
     .class-h3{
         font-size: 40px;
-        margin: 3px;
     }
     .class-p{
         font-size: 20px;
     }
     .class-button{
-        font-size: 17px;
+        font-size: 16px;
     }
 }
 
-    /* Tablets*/
-@media only screen and (max-width: 500px) {
+
+   /* Tablets*/
+   @media only screen and (min-width:501px) and (max-width: 800px ) {
+   
+    .class-h4,.class-h3,.class-p,.class-button{
+        margin: 10px 0px;
+    }
     
-        .class-h4{
-            font-size: 18px;
-            margin: 3px;
+    
+    .class-h3{
+        font-size: 50px;
+        
+    }
+    .class-p{
+        font-size: 22px;
+    }
+    .class-button{
+        font-size:16 px;
+    }
+}    
+
+    /*Pc*/
+    @media only screen and (min-width: 800px) {
+    
+        .class-h4,.class-h3,.class-p,.class-button{
+            margin: 15px 0px;
         }
         .class-h3{
-            font-size: 40px;
-            margin: 3px;
+            font-size: 55px;
         }
         .class-p{
-            font-size: 20px;
+            font-size: 24px;
         }
         .class-button{
-            font-size: 17px;
+            font-size: 20px;
         }
-    }    
+
+        
+ 
+}
