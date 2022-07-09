@@ -10,7 +10,7 @@ import mail from '../images/mail.svg';
 export default function Footer(){
 
     return(
-        <div  className="bottom-position" >
+        <div  className="bottom-position width-100" >
             <div className="margin-container" id="footer">
             
             <a className="color-grey">©Frann 2022, All rights reserved.</a>

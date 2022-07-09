@@ -6,11 +6,15 @@ body,html{
     
 }
 
-/* asta tot anuleaza flex ul si de la child divs, give it a look*/
+
 .bottom-position{
-   position:absolute;
+   position:fixed;
    bottom: 0px;
+   background-color: #d3d3d3;
     
+}
+.width-100{
+    width: 100%;
 }
 #footer{
     display: flex;

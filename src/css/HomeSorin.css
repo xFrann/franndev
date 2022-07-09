@@ -1,10 +1,12 @@
 body,html{
     background-color: #d3d3d3;
     color: #1e1e1e;
+    margin: 0px;
+    padding: 0px;
     
 }
 .button-style{
-    background-color: #000000; /* Green */
+    background-color: #1e1e1e;
     border: none;
     padding: 10px 20px;
     text-align: center;
@@ -28,7 +30,11 @@ body,html{
 .class-h4{
     font-size:19px;
 }       
-
+.no-text-decoration{
+    list-style-type: none;
+    text-decoration: none;
+    color: #1e1e1e;
+}
 
          /* Mobile */
 @media only screen and (min-width:0px) and (max-width: 500px)  {
