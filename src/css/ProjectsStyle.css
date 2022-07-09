@@ -1,0 +1,26 @@
+.width-95-center{
+    width: 95%;
+    margin: auto;
+}
+.padding-sides{
+    padding: 0px 30px;
+}
+.responsive{
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+}
+#color-blue{
+    color: #1e6fd9;
+    text-decoration: none;
+    list-style-type: none;
+}
+.project-container{
+    display: flex;
+    justify-content: space-evenly;
+    flex-basis:20px;
+    flex-wrap: wrap;
+}
+.padding-projects{
+    padding: 70px 0px;
+}

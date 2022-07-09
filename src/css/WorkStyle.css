@@ -1,6 +1,6 @@
-/* Wide column */
+
 .column-1 {
-    width: 90%;
+    width: 95%;
     height: auto;
     
     padding-bottom:70px;
@@ -11,7 +11,7 @@
   }
   
   .table-style {
-    width: 95%;
+    width: 100%;
     border-spacing: 24px;
   }
   #td-blue{

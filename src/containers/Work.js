@@ -5,7 +5,7 @@ export default function Work(){
         <div>
             
         <div class="column-1">
-                <h2>Work Experience</h2>
+                <h2>Work experience</h2> 
             <table class="table-style"> 
                 <tr>
                 <td id='td-blue'>Oracle</td>
@@ -24,7 +24,7 @@ export default function Work(){
             </tr>
             <tr>
                 <td id='td-blue'>ai inteles idea</td>
-                <td>Barosan, ah apropo, vezi ca in ./src e un file cu numele chat.txt</td>
+                <td>Barosan,</td>
                 <td>2001-2022</td>
             </tr>
             </table>
