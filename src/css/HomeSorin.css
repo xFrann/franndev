@@ -1,0 +1,64 @@
+body,html{
+    background-color: #d3d3d3;
+    color: #1e1e1e;
+    
+}
+.button-style{
+    background-color: #000000; /* Green */
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    background-color: #d3d3d3;
+    border-radius:2px;
+    color: #1e1e1e;
+    border: 2px solid #1e1e1e;
+   
+}
+.container{
+    width: 85%;
+    margin: auto;
+    padding: 40px 0px;
+}
+#first-title{
+    color: #000000;
+}
+
+    /* Mobile */
+@media only screen and (max-width: 500px) {
+    
+    .class-h4{
+        font-size: 18px;
+        margin: 3px;
+    }
+    .class-h3{
+        font-size: 40px;
+        margin: 3px;
+    }
+    .class-p{
+        font-size: 20px;
+    }
+    .class-button{
+        font-size: 17px;
+    }
+}
+
+    /* Tablets*/
+@media only screen and (max-width: 500px) {
+    
+        .class-h4{
+            font-size: 18px;
+            margin: 3px;
+        }
+        .class-h3{
+            font-size: 40px;
+            margin: 3px;
+        }
+        .class-p{
+            font-size: 20px;
+        }
+        .class-button{
+            font-size: 17px;
+        }
+    }    

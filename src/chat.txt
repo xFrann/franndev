@@ -1,0 +1,13 @@
+buna ziua,
+
+momentan lucrez la 'home', chiar daca faceai si tu ceva
+(daca nu ti place nu l folosi) 
+anyway, am pus un mic color palette, schimba in ce culori vrei:
+
+    -background/primary color: #d3d3d3;
+    -important title: #000000;
+    -secondary title : 	#1e1e1e;
+    -paragraph : #1e1e1e;
+
+
+  +check footer.css chiar daca am facut cum mi ai zis tot anuleaza flex ul ig
