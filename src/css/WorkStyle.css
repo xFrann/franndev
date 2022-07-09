@@ -1,0 +1,22 @@
+/* Wide column */
+.column-1 {
+    width: 90%;
+    height: auto;
+    
+    padding-bottom:70px;
+    margin:auto;
+    margin-bottom:50px;
+    margin-top: 75px;
+    
+  }
+  
+  .table-style {
+    width: 95%;
+    border-spacing: 24px;
+  }
+  #td-blue{
+    color:  #1e6fd9;
+  }
+  td{
+    font-size: 18px;
+  }

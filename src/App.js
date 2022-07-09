@@ -2,13 +2,14 @@ import Home from "./containers/Home";
 import Nav from "./containers/Nav";
 import Footer from "./containers/Footer";
 import HomeSorin from "./containers/HomeSorin";
+import Work from "./containers/Work";
 
 function App() {
   return (
     <>
       <Nav/>
       <HomeSorin/>
-      
+      <Work/>
       <Footer/>
     </>
     
@@ -16,5 +17,3 @@ function App() {
 }
 
 export default App;
-//👋 Hello, I'm Madalin
-//Passionate about computer science, still self-teaching about the topic on the dail
