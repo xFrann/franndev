@@ -40,10 +40,12 @@ body,html{
 @media only screen and (min-width:0px) and (max-width: 500px)  {
     
     .class-h4,.class-h3,.class-p,.class-button{
-        margin: 5px 0px;
+        margin: 9px 0px;
     }
 
-   
+    .class-h4{
+        font-size: 26px;
+    }
     .class-h3{
         font-size: 40px;
     }
@@ -51,7 +53,7 @@ body,html{
         font-size: 22px;
     }
     .class-button{
-        font-size: 16px;
+        font-size: 17px;
     }
 }
 
@@ -60,9 +62,11 @@ body,html{
    @media only screen and (min-width:501px) and (max-width: 800px ) {
    
     .class-h4,.class-h3,.class-p,.class-button{
-        margin: 10px 0px;
+        margin: 14px 0px;
     }
-    
+    .class-h4{
+        font-size: 28px;
+    }
     
     .class-h3{
         font-size: 50px;
@@ -72,7 +76,7 @@ body,html{
         font-size: 24px;
     }
     .class-button{
-        font-size:16 px;
+        font-size:17 px;
     }
 }    
 
@@ -81,6 +85,9 @@ body,html{
     
         .class-h4,.class-h3,.class-p,.class-button{
             margin: 15px 0px;
+        }
+        .class-h4{
+            font-size: 30px;
         }
         .class-h3{
             font-size: 55px;
@@ -94,4 +101,11 @@ body,html{
 
         
  
+}
+a:hover {
+    
+    color: #1e6fd9;
+}
+#color-blue{
+    color: #1e6fd9;
 }

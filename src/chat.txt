@@ -8,4 +8,4 @@ anyway, am pus un mic color palette, schimba in ce culori vrei:
     -important title: #000000;
     -secondary title : 	#1e1e1e;
     -paragraph : #1e1e1e;
-
+    -hover: #1e6fd9;
