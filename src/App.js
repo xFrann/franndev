@@ -9,13 +9,14 @@ function App() {
     <>
       <Nav/>
       <HomeSorin/>
-      <Projects/>
+     
       <Footer/>
     </>
     
   );
 }
-//restu is aici
+//restu is aici + position ul de la footer trebuie schimbat pe relative daca bagi si celelalte componente pe aceasi pagina
+//daca nu tine l cum e acum
 //<Work/>
 //<Projects/>
 

@@ -11,10 +11,11 @@
     text-decoration: none;
     list-style-type: none;
 }   
-/*id for 'check out my linkeding/the project on my github etc. '*/
-
-
-
+.no-text-decoration{
+    list-style-type: none;
+    text-decoration: none;
+    color: #1e1e1e;
+}
  /* Mobile */
  @media only screen and (min-width:0px) and (max-width: 500px)  {
     .primary-text{
@@ -28,6 +29,7 @@
     .paragraph-text{
         font-size:20px;
     }
+    /*id for 'check out my linkeding/the project on my github etc. '*/
     #check-out{
         font-size: 18px;
     }
@@ -50,6 +52,8 @@
     .paragraph-text{
         font-size: 25px;
     }
+    /*id for 'check out my linkeding/the project on my github etc. '*/
+
     #check-out{
         font-size: 20px;
     }

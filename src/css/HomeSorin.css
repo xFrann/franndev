@@ -31,12 +31,10 @@ body,html{
 .class-h4{
     font-size:19px;
 }       
-.no-text-decoration{
-    list-style-type: none;
-    text-decoration: none;
-    color: #1e1e1e;
-}
 
+.class-button{
+    font-size:17 px;
+}
          /* Mobile */
 @media only screen and (min-width:0px) and (max-width: 500px)  {
     
@@ -53,9 +51,7 @@ body,html{
     .class-p{
         font-size: 22px;
     }
-    .class-button{
-        font-size: 17px;
-    }
+    
 }
 
 
@@ -76,9 +72,7 @@ body,html{
     .class-p{
         font-size: 24px;
     }
-    .class-button{
-        font-size:17 px;
-    }
+    
 }    
 
     /*Pc*/
@@ -103,7 +97,7 @@ body,html{
         
  
 }
-a:hover {
+.button-style a:hover {
     
     color: #1e6fd9;
 }
