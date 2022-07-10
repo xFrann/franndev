@@ -9,14 +9,15 @@
     margin-top: 75px;
     
   }
-  
   .table-style {
     width: 100%;
-    border-spacing: 24px;
+    border-spacing: 22px;
   }
   #td-blue{
     color:  #1e6fd9;
   }
-  td{
-    font-size: 18px;
-  }
+     
+.padding-top-bottom{
+  padding: 10px 0px;
+
+}

@@ -1,4 +1,5 @@
 import ProjectsStyle from '../css/ProjectsStyle.css'
+import general from '../css/general.css'
 
 export default function Projects(){
 

@@ -1,0 +1,80 @@
+ *{
+    text-decoration: none;
+    list-style-type: none;
+    /* secondary color */
+    color: #010101;
+ }
+
+
+ #color-blue{
+    color: #1e6fd9;
+    text-decoration: none;
+    list-style-type: none;
+}   
+/*id for 'check out my linkeding/the project on my github etc. '*/
+
+
+
+ /* Mobile */
+ @media only screen and (min-width:0px) and (max-width: 500px)  {
+    .primary-text{
+        font-size: 33px;
+        margin: 0px;
+    }
+    .secondary-text{
+        font-size: 30px;
+        margin: 0px;
+    }
+    .paragraph-text{
+        font-size:20px;
+    }
+    #check-out{
+        font-size: 18px;
+    }
+}
+
+
+   /* Tablets*/
+   @media only screen and (min-width:501px) and (max-width: 800px ) {
+    .primary-text{
+        font-size: 35px;
+        color: #000000;
+        margin: 0px;
+        
+    }
+    .secondary-text{
+        font-size: 30px;
+        color: #3d3a3a;
+        margin: 0px;
+    }
+    .paragraph-text{
+        font-size: 23px;
+    }
+    #check-out{
+        font-size: 20px;
+    }
+    
+}    
+
+    /*Pc*/
+    @media only screen and (min-width: 800px) {
+        .primary-text{
+            font-size: 40px;
+            color: #000000;
+            margin: 0px;
+            
+        }
+        .secondary-text{
+            font-size: 35px;
+            color: #3d3a3a;
+            margin: 0px;
+        }
+        .paragraph-text{
+            font-size: 22px;
+        }
+      
+        
+ 
+}
+
+

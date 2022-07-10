@@ -1,10 +1,11 @@
 
 
-import footerCss from "../css/Footer.css"
 import instagram from '../social-media-images/instagram.svg';
 import github from '../social-media-images/github.svg';
 import linkedin from '../social-media-images/linkedin.svg';
 import mail from '../social-media-images/mail.svg';
+import general from '../css/general.css'
+import footerCss from "../css/Footer.css"
 
 
 export default function Footer(){
@@ -13,7 +14,7 @@ export default function Footer(){
         <div  className="bottom-position width-100 margin-top" >
             <div className="margin-container" id="footer">
             
-            <a className="color-grey">©Frann 2022, All rights reserved.</a>
+            <a className="color-grey " id='check-out'>©Frann 2022, All rights reserved.</a>
             
             <div className="icons">
                 <a href="https://github.com/xFrann">

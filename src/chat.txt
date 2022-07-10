@@ -9,3 +9,7 @@ anyway, am pus un mic color palette, schimba in ce culori vrei:
     -secondary title : 	#1e1e1e;
     -paragraph : #1e1e1e;
     -hover: #1e6fd9;
+
+    dupa cum vezi work experience si projects momentan arata a rahat, dw inca mai lucrez la ele
+
+am facut si un file css general in care am pus responsive size la text
