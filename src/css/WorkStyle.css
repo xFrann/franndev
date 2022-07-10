@@ -5,13 +5,13 @@
     
     padding-bottom:70px;
     margin:auto;
-    margin-bottom:50px;
-    margin-top: 75px;
+    padding: 20px 4vh;
     
   }
   .table-style {
-    width: 100%;
-    border-spacing: 22px;
+    width: 90%;
+    margin: 20px 0px;
+    border-spacing: 2vh 10px;
   }
   #td-blue{
     color:  #1e6fd9;

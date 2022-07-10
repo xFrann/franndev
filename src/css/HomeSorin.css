@@ -21,7 +21,8 @@ body,html{
 .container{
     width: 85%;
     margin: auto;
-    padding: 200px 0px;
+    padding-top: 170px;
+    padding-bottom: 200px;
 }
 #first-title{
     color: #000000;

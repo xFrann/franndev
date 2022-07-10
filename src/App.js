@@ -9,12 +9,15 @@ function App() {
     <>
       <Nav/>
       <HomeSorin/>
-      <Work/>
       <Projects/>
       <Footer/>
     </>
     
   );
 }
+
+//<Work/>
+//<Projects/>
+
 
 export default App;
