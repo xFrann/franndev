@@ -4,10 +4,10 @@ import general from '../css/general.css'
 export default function Work(){
     return(
         <div>
-            
-        <div class="column-1 paragraph-text">
-                <h2 className='secondary-text'>Work experience</h2> 
-            <table class="table-style"> 
+            <h2 className='secondary-text width-95-center'>Work experience</h2> 
+        <div class="column-1 paragraph-text " >
+
+            <table class="table-style margin-top" > 
                 <tr>
                 <td id='td-blue'>Oracle</td>
                 <td>Support Engineer</td>
@@ -30,7 +30,7 @@ export default function Work(){
             </tr>
             
             </table>
-            <p id='check-out' className='padding-top-bottom'>Find more about it on <a href="https://www.linkedin.com/in/frangumadalin215/" id='color-blue'>my Linkedin account</a></p>
+            <p id='check-out' >Find more about it on <a href="https://www.linkedin.com/in/frangumadalin215/" id='color-blue'>my Linkedin account</a></p>
             
         </div>
          </div>
