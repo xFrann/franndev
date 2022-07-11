@@ -1,11 +1,12 @@
 {
     "home": {
         "introduction": {
-            "title": "👋 Hello, I'm Madalin",
-            "content": "Passionate about computer science, still self-teaching about the topic on the daily "
+            "title": "Hello, I'm Madalin👋",
+            "content": "Passionate about computer science, still self-teaching about the topic on the daily. I create stuff during my free time, mostly because I love the power of making something out of nothing. I'm open to any discussion, side project or small talk regarding CS, you can hit me up anytime."
         },
         "about": {
-
+            "title": "Who am I? 🙎",
+            "content": "I am 21 years old kid based in Bucharest, fresh out of high school, trying to sustain myself while also pursuing my dream career. The little time that I do not spend sitting in front of a computer, it's spent listening to music, taking walks outside, visit friends and eating a lot 🍗 you can also see me staring into your soul below."
         }
     },
     "Work": {
