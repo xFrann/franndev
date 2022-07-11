@@ -1,6 +1,7 @@
 import React from 'react'
 import logo from "../assets/frann.dev.SVG"  
 import css from "../css/nav.css"
+import general from '../css/general.css'
 export default function Nav() {
   return (
     <div>

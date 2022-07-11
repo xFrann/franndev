@@ -2,6 +2,8 @@ import React from 'react'
 import Text from '../components/Text'
 import data from "../assets/pageContent.json"
 import me from "../assets/me.jpeg"
+
+
 export default function Home() {
 
 

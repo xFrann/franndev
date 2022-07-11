@@ -3,26 +3,50 @@ body,html{
     padding: 0px;
     text-decoration: none;
     list-style-type: none;
+    
+}
+.bottom-position{
+   position:fixed;
+   bottom: 0px;
+   background-color: #d3d3d3;
 }
 
-.greyColor{
-    color: grey;
+.width-100{
+    width: 100%;
 }
-.imageIcon{
+
+#footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;  
+}
+
+.color-grey{
+    color: rgb(92, 87, 87);
+}
+
+.image-icon{
     width: 25px;
     height: 25px;
 }
 
-.marginlr{
-    margin: 0 25px;
+.margin-container{
+    margin: 10px 25px;
 }
+
 .icons{
+
     margin: 0px 5px;
 }
 
-.containerC{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
+@media only screen and (max-width: 440px){
+    #footer{
+        flex-direction: column;
+    }
+    .icons{
+        margin:5px 0px;
+    }
+} 
+.margin-top{
+    margin-top:45px ;
 }
-
