@@ -1,24 +1,26 @@
 import Home from "./containers/Home";
 import Nav from "./containers/Nav";
-import Footer from "./containers/Footer";
-import HomeSorin from "./containers/HomeSorin";
+import { Routes, BrowserRouter, Route } from "react-router-dom";
 import Work from "./containers/Work";
-import Projects from "./containers/Projects";
+import LanguagePicker from "./components/LanguagePicker";
 function App() {
   return (
     <>
+
+      <BrowserRouter>
       <Nav/>
-      <HomeSorin/>
-     
-      <Footer/>
+        <Routes>
+          <Route path="/" element={<Home/>} />
+          <Route path="work" element={<Work />} />
+        </Routes>
+        <LanguagePicker></LanguagePicker>
+      </BrowserRouter>
+
+
     </>
     
   );
 }
-//restu is aici + position ul de la footer trebuie schimbat pe relative daca bagi si celelalte componente pe aceasi pagina
-//daca nu tine l cum e acum
-//<Work/>
-//<Projects/>
 
 
 export default App;
