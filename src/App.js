@@ -2,7 +2,6 @@ import Home from "./containers/Home";
 import Nav from "./containers/Nav";
 import { Routes, BrowserRouter, Route } from "react-router-dom";
 import Work from "./containers/Work";
-import LanguagePicker from "./components/LanguagePicker";
 function App() {
   return (
     <>
