@@ -5,8 +5,16 @@
             "content": "Passionate about computer science, still self-teaching about the topic on the daily. I create stuff during my free time, mostly because I love the power of making something out of nothing. I'm open to any discussion, side project or small talk regarding CS, you can hit me up anytime."
         },
         "about": {
-            "title": "Who am I? 🙎",
-            "content": "I am 21 years old kid based in Bucharest, fresh out of high school, trying to sustain myself while also pursuing my dream career. The little time that I do not spend sitting in front of a computer, it's spent listening to music, taking walks outside, visit friends and eating a lot 🍗 you can also see me staring into your soul below."
+            "title": "Some more about me 🙎",
+            "content": "I am 21 years old kid based in Bucharest, fresh out of high school, trying to sustain myself while also pursuing my dream career. The little time that I do not spend sitting in front of a computer, it's spent listening to music, taking walks outside, visit friends and eating a lot 🍗 "
+        },
+        "explore": {
+            "title": "What can you find here ✨",
+            "content": "On my website I have listed <a href='/projects'>projects<a/> done so far, my work experience and ways you can contact me, you can also follow me on social media 😅 (I don't post a lot though)"
+        },
+        "time": {
+            "title": "Time, Languages, Stacks 🔥",
+            "content": "At the moment I can only work on projects on the side, as I'm not a full time developer (if you want to help with that, mail me 😎) <br/> Currently I'm building mainly websites, using React.js for frontend (sometimes with a CSS framework) without Redux and Python Django (with PostgreSQL) for the backend as this is the fastest way and most comfortable for me to quickly get a website production ready. My first learned language though was Java, however I never had the chance to build something significant with it as there were much better alternatives for the software I needed to create. <br/> All the websites (both mine and customers' one) get hosted on my own server, which serves them using nginx, the connections are proxied with cloudflare. This also acts as the mail server, so far with few mailboxes (under 50). <br/> I like working mainly on the backend, but since this is not enough to create an useful app, I have to be some sort of a full stack developer (jack of all trades, expert of none) as you can also see from the poor design skills 😅"
         }
     },
     "Work": {
