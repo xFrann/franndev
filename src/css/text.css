@@ -2,6 +2,7 @@
     margin: 0.5rem 0.5rem;
     line-height: 1.7;
     max-width: 60ch;
+    text-align: justify;
 }
 
 .text-container .title h1 {
