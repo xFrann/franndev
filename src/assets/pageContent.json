@@ -17,7 +17,12 @@
             "content": "At the moment I can only work on projects on the side, as I'm not a full time developer (if you want to help with that, mail me 😎) <br/> Currently I'm building mainly websites, using React.js for frontend (sometimes with a CSS framework) without Redux and Python Django (with PostgreSQL) for the backend as this is the fastest way and most comfortable for me to quickly get a website production ready. My first learned language though was Java, however I never had the chance to build something significant with it as there were much better alternatives for the software I needed to create. <br/> All the websites (both mine and customers' one) get hosted on my own server, which serves them using nginx, the connections are proxied with cloudflare. This also acts as the mail server, so far with few mailboxes (under 50). <br/> I like working mainly on the backend, but since this is not enough to create an useful app, I have to be some sort of a full stack developer (jack of all trades, expert of none) as you can also see from the poor design skills 😅"
         }
     },
-    "Work": {
-
+    "work": {
+        "oracle": {
+            "description": "My journey at Oracle started in July 2021 and still it's still on going. I am responsible of troubleshooting and resolving issues with POS Software/Hardware. My current position involves taking calls or tickets from customers, getting a remote connection on their affected devices, identify and solve the problem. I work closely with multiple database technologies and solve multiple problems by writing queries. Issues we often solve are related to OS problems, Software misconfiguration, data missing or incorrect in databases, network problems."
+        },
+        "freelancer": {
+            "description": "I have been freelancing for the past 2 years, I'm mostly taking projects from other people/businesses in Bucharest and provide them a full software solution, from development all the way to hosting. The completed projects can be viewed <a href='/project' style='text-decoration: underline;'>here<a/>"
+        }
     }
 }
