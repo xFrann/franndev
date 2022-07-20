@@ -1,0 +1,37 @@
+.work-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem 0rem;
+}
+.work-card h1, .work-card h2 {
+    margin: 0rem 0rem;
+    margin-bottom: 0rem;
+}
+.work-card .inner-container {
+    padding: 0 1rem;
+}
+.work-cards {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.work-container {
+    max-width: 100ch;
+    margin: 0 auto;
+}
+.description {
+    font-size: 1.1rem;
+    text-align: justify;
+
+}
+.work-card-header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.org-logo {
+    margin-right: 1rem;
+}
