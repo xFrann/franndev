@@ -1,7 +1,6 @@
 import React from 'react'
 import WorkCard from '../components/WorkCard'
 import oracleLogo from '../assets/organizations/oracle.svg'
-import franndevLogo from '../assets/frann.dev.SVG'
 import data from '../assets/pageContent.json'
 
 
