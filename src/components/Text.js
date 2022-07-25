@@ -1,5 +1,5 @@
 import React from 'react'
-import css from '../css/text.css'
+import '../css/text.css'
 
 export default function Text(props) {
 

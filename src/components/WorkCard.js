@@ -1,5 +1,5 @@
 import React from 'react'
-import css from '../css/workcard.css'
+import '../css/workcard.css'
 import Separator from './Separator'
 import Text from './Text'
 /**
