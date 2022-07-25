@@ -10,7 +10,7 @@
         },
         "explore": {
             "title": "What can you find here ✨",
-            "content": "On my website I have listed <a href='/projects'>projects<a/> done so far, my work experience and ways you can contact me, you can also follow me on social media 😅 (I don't post a lot though)"
+            "content": "On my website I have listed projects done so far, my work experience and ways you can contact me, you can also follow me on social media 😅 (I don't post a lot though)"
         },
         "time": {
             "title": "Time, Languages, Stacks 🔥",
@@ -22,7 +22,17 @@
             "description": "My journey at Oracle started in July 2021 and still it's still on going. I am responsible of troubleshooting and resolving issues with POS Software/Hardware. My current position involves taking calls or tickets from customers, getting a remote connection on their affected devices, identify and solve the problem. I work closely with multiple database technologies and solve multiple problems by writing queries. Issues we often solve are related to OS problems, Software misconfiguration, data missing or incorrect in databases, network problems."
         },
         "freelancer": {
-            "description": "I have been freelancing for the past 2 years, I'm mostly taking projects from other people/businesses in Bucharest and provide them a full software solution, from development all the way to hosting. The completed projects can be viewed <a href='/project' style='text-decoration: underline;'>here<a/>"
+            "description": "I have been freelancing for the past 2 years, I'm mostly taking projects from other people/businesses in Bucharest and provide them a full software solution, from development all the way to hosting."
         }
+    },
+    "projects": {
+        "ngpanel": {
+            "title": "NgPanel",
+            "description": "At the moment the only project worth for display would be NgPanel. It's a control panel that will be used by my customers to manage their websites, hosting, mailboxes, cloud storage, view stats and much more. At the moment the project is not yet finished, the backend is a private repository, but the frontend can be <a href='https://github.com/xFrann/ngpanel'>viewed on GitHub</a></br>Pictures, features and progress will be added here soon."
+        }
+    },
+    "contact": {
+        "title": "Contact me",
+        "content": "If you want to contact me, you can use the form below or you can also hit me up on social media 😅"
     }
 }
