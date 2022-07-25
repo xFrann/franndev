@@ -13,7 +13,7 @@ export default function WorkCard(props) {
     <div className='work-card'>
         <div className='inner-container'>
             <div className='work-card-header'>
-                {props.src && <img className='org-logo' width="64px" height="64px" src={props.src}></img>}
+                {props.src && <img className='org-logo' width="64px" height="64px" src={props.src} alt='Organization logo'></img>}
                 <div className='right-content'>
                     <h1>{props.role}</h1>
                     <div className='organization'>

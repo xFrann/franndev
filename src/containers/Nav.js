@@ -8,7 +8,7 @@ export default function Nav() {
     <div>
         <div className='nav-flex'>
             <div>
-                <Link to='/'><img id='nav-logo' src={logo}></img></Link>
+                <Link to='/' aria-label='Logo'><img id='nav-logo' src={logo} alt="frann.dev logo"></img></Link>
             </div>
             <div>
                 <ul className='nav-list'>

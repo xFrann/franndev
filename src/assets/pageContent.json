@@ -28,11 +28,11 @@
     "projects": {
         "ngpanel": {
             "title": "NgPanel",
-            "description": "At the moment the only project worth for display would be NgPanel. It's a control panel that will be used by my customers to manage their websites, hosting, mailboxes, cloud storage, view stats and much more. At the moment the project is not yet finished, the backend is a private repository, but the frontend can be <a href='https://github.com/xFrann/ngpanel'>viewed on GitHub</a></br>Pictures, features and progress will be added here soon."
+            "description": "At the moment the only project worth for display would be NgPanel. It's a control panel that will be used by my customers to manage their websites, hosting, mailboxes, cloud storage, view stats and much more. At the moment the project is not yet finished, the backend is a private repository, but the frontend can be <a href='https://github.com/xFrann/ngpanel' aria-label='Github project'>viewed on GitHub</a></br>Pictures, features and progress will be added here soon."
         }
     },
     "contact": {
         "title": "Find me",
-        "content": "Call <a href='tel:+40757340199'>+40757340199</a> or just hit me up on social media 😅 <br> You can always send a mail here <a href='mailto:contact@frann.dev'>contact@frann.dev</a>, I will reply as soon as possible. <br/> Below you will find the social media icons"
+        "content": "Call <a href='tel:+40757340199' aria-label='phone number'>+40757340199</a> or just hit me up on social media 😅 <br> You can always send a mail here <a href='mailto:contact@frann.dev' aria-label='email address'>contact@frann.dev</a>, I will reply as soon as possible. <br/> Below you will find the social media icons"
     }
 }
